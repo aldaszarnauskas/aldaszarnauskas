@@ -34,6 +34,3 @@ I use this space to share code, analyses, and tutorials that bridge **biology**,
 
 ## Connect with Me
 - [LinkedIn](linkedin.com/in/aldaszarnauskas)
-
----
-*“Do the things that you do not want to do and stay curious”*
