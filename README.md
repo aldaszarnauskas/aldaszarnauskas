@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Aldas Žarnauskas
 
-🎓 **Data Analyst | Bioinformatician**
+**Bioinformatician**
 
 Welcome to my GitHub profile!  
 I use this space to share code, analyses, and tutorials that bridge **biology**, **data science**, and **programming** — from **RNA-seq data analysis** to **statistical modeling** and **data visualization** in **R** and **Python**.
 
 ---
 
-## 🧠 About Me
-- 💻 Passionate about **computational biology** and **data analytics**
-- 📊 Experienced with **RNA-seq** and **statistical modeling** 
-- 🧬 Skilled in **R**, **Python**, **bash scripting**, and some bioinformatics pipelines
+## About Me
+- Passionate about **computational biology** and **data analytics**
+- Experienced with **RNA-seq** and **statistical modeling** 
+- Skilled in **R**, **Python**, **bash scripting**, and some bioinformatics pipelines
 
 ---
 
@@ -23,7 +23,7 @@ I use this space to share code, analyses, and tutorials that bridge **biology**,
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 **Languages:** R · Python · Bash  
 **Data Science:** pandas · NumPy · matplotlib · seaborn · statsmodels  
 **Bioinformatics:** clusterProfiler · DESeq2 · edgeR · limma · enrichplot  
@@ -32,8 +32,8 @@ I use this space to share code, analyses, and tutorials that bridge **biology**,
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](linkedin.com/in/aldaszarnauskas)
+## Connect with Me
+- [LinkedIn](linkedin.com/in/aldaszarnauskas)
 
 ---
 *“Do the things that you do not want to do and stay curious”*
